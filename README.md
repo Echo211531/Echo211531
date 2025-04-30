@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://badgen.net/badge/{JAVA}/{24}/{red?icon=github
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Echo211531&amp;show_icons=true&amp;theme=tokyonight)
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Echo211531&amp;layout=compact&amp;theme=tokyonight)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Echo211531&amp;layout=compact&amp;theme=tokyonight)   ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Echo211531&amp;repo=zou-picture-backend&amp;theme=dark)
 
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Echo211531&amp;repo=zou-picture-backend&amp;theme=dark)
-
+![github统计](https://stats.justsong.cn/api/github?username=Echo211531&amp;theme=dark&amp;lang=zh-CN)  ![Visitor Count](https://profile-counter.glitch.me/{Echo211531}/count.svg)
 
