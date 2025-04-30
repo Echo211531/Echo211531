@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Echo211531&amp;show_icons=true&amp;theme=tokyonight)   ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Echo211531&amp;layout=compact&amp;theme=tokyonight;lang=zh-CN)   ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Echo211531&amp;repo=zou-picture-backend&amp;theme=dark;lang=zh-CN)  ![github统计](https://stats.justsong.cn/api/github?username=Echo211531&amp;theme=dark&amp;lang=zh-CN) 
-
-![CSDN统计](https://stats.justsong.cn/api/csdn?id=weixin_73093777&amp;theme=dark;lang=zh-CN)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Echo211531&amp;show_icons=true&amp;theme=tokyonight)   ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Echo211531&amp;layout=compact&amp;theme=tokyonight;lang=zh-CN)   ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Echo211531&amp;repo=zou-picture-backend&amp;theme=dark;lang=zh-CN)  ![github统计](https://stats.justsong.cn/api/github?username=Echo211531&amp;theme=dark&amp;lang=zh-CN)   ![CSDN统计](https://stats.justsong.cn/api/csdn?id=weixin_73093777&amp;theme=dark;lang=zh-CN)
