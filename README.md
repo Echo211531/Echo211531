@@ -1,4 +1,4 @@
-# Hi there is my small world👋
+# Hi there is my small world👋  ![tip](https://badgen.net/badge/{JAVA}/{24}/{red?icon=github)   ![Visitor Count](https://profile-counter.glitch.me/{Echo211531}/count.svg)
 
 <!--
 **Echo211531/Echo211531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tip](https://badgen.net/badge/{JAVA}/{24}/{red?icon=github)   ![Visitor Count](https://profile-counter.glitch.me/{Echo211531}/count.svg)
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Echo211531&amp;show_icons=true&amp;theme=tokyonight)   ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Echo211531&amp;layout=compact&amp;theme=tokyonight)   ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Echo211531&amp;repo=zou-picture-backend&amp;theme=dark)  ![github统计](https://stats.justsong.cn/api/github?username=Echo211531&amp;theme=dark&amp;lang=zh-CN) 
