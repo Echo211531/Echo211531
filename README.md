@@ -1,4 +1,4 @@
-# Hi there is my small world👋  ![tip](https://badgen.net/badge/{JAVA}/{24}/{red?icon=github)   ![Visitor Count](https://profile-counter.glitch.me/{Echo211531}/count.svg)
+# Hi this is my world👋  ![tip](https://badgen.net/badge/{JAVA}/{24}/{red?icon=github)   ![Visitor Count](https://profile-counter.glitch.me/{Echo211531}/count.svg)
 
 <!--
 **Echo211531/Echo211531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
